@@ -1,0 +1,18 @@
+{
+	"name" : "net.magma-mc.shaders",
+	"displayName" : "MagmaMc.Shaders",
+	"version" : "1.5.0",
+	"unity" : "2019.4",
+	"description" : "",
+	"author" : {
+		"name" : "MagmaMc",
+		"email" : "magma.mc@magma-mc.net",
+		"url" : "https://magmamcnet.github.io/VPM/"
+	},
+	"vpmDependencies" : {
+	},
+	"samples" : [],
+	"legacyFolders" : {
+		"Assets\\MagmaMc\\Shaders" : "ae73672516e94d04bb5d97510be9221f"
+	}
+}

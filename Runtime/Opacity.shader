@@ -53,6 +53,6 @@
         ENDCG
     }
 
-    CustomEditor "EasyShaderUI"
+    CustomEditor "MagmaMc.Shaders.EasyShaderUI"
     FallBack "Transparent/Cutout/Diffuse" // Use the cutout diffuse shader as fallback
 }

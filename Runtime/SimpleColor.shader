@@ -43,5 +43,5 @@ Shader "MagmaMc/SimpleColor"
             ENDCG
         }
     }
-    CustomEditor "EasyShaderUI"
+    CustomEditor "MagmaMc.Shaders.EasyShaderUI"
 }

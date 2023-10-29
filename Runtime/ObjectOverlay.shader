@@ -58,7 +58,6 @@
 
     }
     
-    CustomEditor "ObjectOverlayShaderUI"
     SubShader
     {
 		Tags { "Queue"="Overlay+2" "RenderType"="Overlay" "IgnoreProjector" = "True" "ForceNoShadowCasting" = "True" "PreviewType" = "None"}
@@ -476,4 +475,5 @@
             ENDCG
         }
     } 
+    CustomEditor "MagmaMc.Shaders.ObjectOverlayUI"
 }
